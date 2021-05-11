@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aaron Kaplan"
   avatar           : "picture.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Associate professor, [University of Utah](http://linguistics.utah.edu)"
+  #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?hl=en&user=9faw_NAAAAAJ"
