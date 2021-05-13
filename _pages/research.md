@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Positional Licensing
+### Published papers
 
 Kaplan, Aaron (2011) [Harmonic Improvement without Candidate Chains in Chamorro](https://doi.org/10.1162/ling_a_00063). *Linguistic Inquiry* 42.4:631--650.
 
@@ -16,6 +17,9 @@ McCarvel, Miranda & Aaron Kaplan (2019) [Positional Faithfulness in Harmonic Gra
 
 Kaplan, Aaron (2019) [Overshoot in Licensing-Driven Harmony](https://doi.org/10.1017/S0952675719000319). *Phonology* 36.4:605--626.
 
+
+
+### Handouts, posters, etc.
 
 ## Optionality
 
