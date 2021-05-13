@@ -6,7 +6,7 @@ excerpt: 'Summary here'
 date: 2019-01-01
 venue: 'Phonology'
 paperurl: 'https://doi.org/10.1017/S0952675719000319'
-citation: 'Kaplan, Aaron. (2019).' [Overshoot in Licensing-Driven Harmony](https://doi.org/10.1017/S0952675719000319)'. <i>Phonology</i>. 36.4: 605-626.'
+citation: 'Kaplan, Aaron. (2019). Overshoot in Licensing-Driven Harmony. <i>Phonology</i>. 36.4: 605-626.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
