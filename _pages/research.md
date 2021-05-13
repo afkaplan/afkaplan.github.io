@@ -1,16 +1,9 @@
 ---
-layout: archive
 title: "Research"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Positional Licensing
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Kaplan, Aaron (2019) [Overshoot in Licensing-Driven Harmony](https://doi.org/10.1017/S0952675719000319). *Phonology* 36.4: 605-626.
