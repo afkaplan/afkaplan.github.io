@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomy
+layout: single
 title: "Research"
 permalink: /publications/
 author_profile: true
