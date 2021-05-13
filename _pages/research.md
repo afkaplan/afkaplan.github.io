@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Positional Licensing
+## Positional Licensing
 
 Kaplan, Aaron (2011) [Harmonic Improvement without Candidate Chains in Chamorro](https://doi.org/10.1162/ling_a_00063). *Linguistic Inquiry* 42.4:631--650.
 
