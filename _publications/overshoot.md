@@ -3,7 +3,7 @@ title: "Overshoot in Licensing-Driven Harmony"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Summary here'
-date: 2019
+date: 2019-01-01
 venue: 'Phonology'
 paperurl: 'https://doi.org/10.1017/S0952675719000319'
 citation: 'Kaplan, Aaron. (2019). [Overshoot in Licensing-Driven Harmony](https://doi.org/10.1017/S0952675719000319). <i>Phonology</i>. 36.4: 605-626.'
