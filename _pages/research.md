@@ -35,7 +35,19 @@ Kaplan, Aaron (2021) [Persistence and Opacity in Eastern Andalusian Harmony](htt
 
 
 
-### Handouts, posters, etc.
+### Recent handouts, posters, etc.
+
+Kaplan, Aaron (2020) Harmonic Bounding in (Noisy) Harmonic Grammar. Handout from talk presented at *Linguistics at Santa Cruz,* UC Santa Cruz, February 29.
+
+Kaplan, Aaron (2020) Opacity in Eastern Andalusian Harmony. Poster presented at *Annual Meeting on Phonology 2020,* UC Santa Cruz, September 20.
+
+Kaplan, Aaron (2019) Noisy HG Models of Eastern Andalusian Harmony. Handout from talk presented at *Sixteenth Old World Conference in Phonology,* University of Verona, Verona, Italy, January 18.
+
+Kaplan, Aaron (2018) Noisy HG Models of Eastern Andalusian Harmony. Handout from talk presented at *Analyzing Typological Structure: From Categorical to Probabilistic Phonology,* Stanford Univ., September 22.
+
+Kaplan, Aaron (2018) Intervening Positions in Long-Distance Positional Licensing Effects. Handout from talk presented at *GLOW 41,* Budapest, April 10.
+
+
 
 ## Optionality
 ### Published papers
@@ -49,8 +61,11 @@ Kaplan, Aaron (2016) [Local Optionality with Partial Orders](https://doi.org/10.
 Kaplan, Aaron (2021) [Persistence and Opacity in Eastern Andalusian Harmony](https://doi.org/10.3765/amp.v9i0.4899). In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America.
 
 
-### Handouts, posters, etc.
+### Recent handouts, posters, etc.
 
+Kaplan, Aaron (2019) Noisy HG Models of Eastern Andalusian Harmony. Handout from talk presented at *Sixteenth Old World Conference in Phonology,* University of Verona, Verona, Italy, January 18.
+
+Kaplan, Aaron (2018) Noisy HG Models of Eastern Andalusian Harmony. Handout from talk presented at *Analyzing Typological Structure: From Categorical to Probabilistic Phonology,* Stanford Univ., September 22.
 
 
 # Other
