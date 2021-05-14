@@ -68,7 +68,7 @@ Kaplan, Aaron (2019) Noisy HG Models of Eastern Andalusian Harmony. Handout from
 Kaplan, Aaron (2018) Noisy HG Models of Eastern Andalusian Harmony. Handout from talk presented at *Analyzing Typological Structure: From Categorical to Probabilistic Phonology,* Stanford Univ., September 22.
 
 
-# Other
+## Other
 
 Kaplan, Aaron (2005) [Long-Distance Wh-Movement in Chamorro](http://www.linguistics.ucla.edu/faciliti/wpl/issues/wpl12/papers/Kaplan_AFLA12.pdf). In Jeffrey Heinz and Dimitris Ntelitheos (eds.), *Proceedings of the Twelfth Annual Conference of the Austronesian Formal Linguistics Association (AFLA),* UCLA Working Papers in Linguistics, 117--130.
 
