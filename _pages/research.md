@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research has two main focuses, prominence-driven processes (in particular positional licensing) and optionality.  The items on this page are organized into these two groups, with things that don't belong in either category at the end.  When something belongs in both categories, it is listed twice.
+My research has two main focuses, prominence-driven processes (in particular positional licensing) and optionality.  The items on this page are organized into these two groups, with things that don't belong in either category at the end.  When something addresses both topics, it appears twice.
 
 ## Positional Licensing
 ### Published papers
