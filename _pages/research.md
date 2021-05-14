@@ -38,6 +38,7 @@ Kaplan, Aaron (2021) [Persistence and Opacity in Eastern Andalusian Harmony](htt
 ### Handouts, posters, etc.
 
 ## Optionality
+### Published papers
 
 Kaplan, Aaron (2011) [Variation through Markedness Suppression](https://doi.org/10.1017/S0952675711000200). *Phonology* 28.3:331--370.
 
@@ -48,10 +49,11 @@ Kaplan, Aaron (2016) [Local Optionality with Partial Orders](https://doi.org/10.
 Kaplan, Aaron (2021) [Persistence and Opacity in Eastern Andalusian Harmony](https://doi.org/10.3765/amp.v9i0.4899). In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America.
 
 
+### Handouts, posters, etc.
 
 
 
-### Other
+# Other
 
 Kaplan, Aaron (2005) [Long-Distance Wh-Movement in Chamorro](http://www.linguistics.ucla.edu/faciliti/wpl/issues/wpl12/papers/Kaplan_AFLA12.pdf). In Jeffrey Heinz and Dimitris Ntelitheos (eds.), *Proceedings of the Twelfth Annual Conference of the Austronesian Formal Linguistics Association (AFLA),* UCLA Working Papers in Linguistics, 117--130.
 
