@@ -4,11 +4,13 @@ permalink: /handouts_posters/
 author_profile: true
 ---
 
+For published papers, see [here](research).
+
 ## Positional Licensing
 
 Kaplan, Aaron (2006) [Licensing and Noniterative Harmony in Lango](../files/Lango_NELS_poster.pdf). Poster presented at the *37th Meeting of the North East Linguistic Society.* Champaign, IL, October 13.
 
-Kaplan, Aaron (2006) Licensed Harmony in Lango. *Trilateral Phonology Weekend,* Berkeley, CA, November 18.
+Kaplan, Aaron (2006) [Licensed Harmony in Lango](../files/Lango_TREND_handout.pdf). *Trilateral Phonology Weekend,* Berkeley, CA, November 18.
 
 Kaplan, Aaron (2007) Vowel Harmony in Lango: Noniterativity and Licensing. *Annual Meeting of the Linguistic Society of America,* Anaheim, CA, January 7.
 
