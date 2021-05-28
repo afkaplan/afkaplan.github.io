@@ -55,7 +55,7 @@ Kaplan, Aaron (2005) [Long-Distance Wh-Movement in Chamorro](http://www.linguist
 
 Kaplan, Aaron (2006) [Vowel Length and Coda Cluster Interactions in Misantla Totonac](https://repository.upenn.edu/pwpl/vol12/iss1/14/). *Proceedings of the 29th Annual Penn Linguistics Colloquium,* Penn Linguistics Club.
 
-Kaplan, Aaron (2007) The Syllable as Contour Tone Host. *Phonology at Santa Cruz 7.*
+Kaplan, Aaron (2007) [The Syllable as Contour Tone Host](https://escholarship.org/uc/item/3sr39341). *Phonology at Santa Cruz 7.*
 
 Kaplan, Aaron (2008) *Noniterativity is an Emergent Property of Grammar.* PhD Dissertation, UC Santa Cruz.
 
