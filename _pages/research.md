@@ -11,7 +11,7 @@ This page contains published papers.  For handouts and posters, see [here](hando
 ## Positional Licensing
 
 
-Kaplan, Aaron (2008) Licensing and Noniterative Harmony in Lango. *Proceedings of NELS 37.*
+Kaplan, Aaron (2008) [Licensing and Noniterative Harmony in Lango](files/Lango_NELS_paper.pdf). *Proceedings of NELS 37.*
 
 Kaplan, Aaron (2008) [Stress is the Trigger of Chamorro Umlaut](https://kuscholarworks.ku.edu/dspace/handle/1808/276). In Emily Tummons and Stephanie Lux (eds.), *Proceedings of the 2007 Mid-America Linguistics Conference, Kansas Working Papers in Linguistics Vol. 30,* 135--149.
 
