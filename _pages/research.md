@@ -57,7 +57,7 @@ Kaplan, Aaron (2006) [Vowel Length and Coda Cluster Interactions in Misantla Tot
 
 Kaplan, Aaron (2007) [The Syllable as Contour Tone Host](https://escholarship.org/uc/item/3sr39341). *Phonology at Santa Cruz 7.*
 
-Kaplan, Aaron (2008) [*Noniterativity is an Emergent Property of Grammar.*](http://roa.rutgers.edu/article/view/1007) PhD Dissertation, UC Santa Cruz.
+Kaplan, Aaron (2008) [*Noniterativity is an Emergent Property of Grammar*](http://roa.rutgers.edu/article/view/1007). PhD Dissertation, UC Santa Cruz.
 
 Kaplan, Aaron (2012) [Tonal and Morphological Identity in Reduplication](https://doi.org/10.3765/bls.v32i1.3455). *Proceedings of the Berkeley Linguistics Society 32.*
 
