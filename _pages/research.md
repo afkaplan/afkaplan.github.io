@@ -19,7 +19,7 @@ Kaplan, Aaron (2011) [Harmonic Improvement without Candidate Chains in Chamorro]
 
 Kaplan, Aaron (2015) [Maximal Prominence and a Theory of Possible Licensors](https://doi.org/10.1007/s11049-014-9273-5). *Natural Language and Linguistic Theory* 33:1235--1270.
 
-Kaplan, Aaron (2016) Long-Distance Licensing in Harmonic Grammar. *Proceedings of AMP 2015.*
+Kaplan, Aaron (2016) [Long-Distance Licensing in Harmonic Grammar](https://doi.org/10.3765/amp.v3i0.3676). *Proceedings of AMP 2015.*
 
 Kaplan, Aaron (2018) [Asymmetric Crisp Edge](https://itomestercelebration.sites.ucsc.edu/). In Ryan Bennett, Andrew Angeles, Adrian Brasoveanu, Dhyana Buckley, Nick Kalivoda, Shigeto Kawahara, Grant McGuire, and Jaye Padgett (eds.), *Hana-bana: A Festschrift for Junko Itô and Armin Mester.*
 
