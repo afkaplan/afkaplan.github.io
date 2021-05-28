@@ -53,7 +53,7 @@ Kaplan, Aaron (2021) [Persistence and Opacity in Eastern Andalusian Harmony](htt
 
 Kaplan, Aaron (2005) [Long-Distance Wh-Movement in Chamorro](http://www.linguistics.ucla.edu/faciliti/wpl/issues/wpl12/papers/Kaplan_AFLA12.pdf). In Jeffrey Heinz and Dimitris Ntelitheos (eds.), *Proceedings of the Twelfth Annual Conference of the Austronesian Formal Linguistics Association (AFLA),* UCLA Working Papers in Linguistics, 117--130.
 
-Kaplan, Aaron (2006) Vowel Length and Coda Cluster Interactions in Misantla Totonac. *Proceedings of the 29th Annual Penn Linguistics Colloquium,* Penn Linguistics Club.
+Kaplan, Aaron (2006) [Vowel Length and Coda Cluster Interactions in Misantla Totonac](https://repository.upenn.edu/pwpl/vol12/iss1/14/). *Proceedings of the 29th Annual Penn Linguistics Colloquium,* Penn Linguistics Club.
 
 Kaplan, Aaron (2007) The Syllable as Contour Tone Host. *Phonology at Santa Cruz 7.*
 
