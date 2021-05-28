@@ -6,7 +6,7 @@ author_profile: true
 
 My research has two main focuses, prominence-driven processes (in particular positional licensing) and optionality.  The items on this page are organized into these two groups, with things that don't belong in either category at the end.  When something addresses both topics, it appears twice.
 
-This page contains published papers.  For handouts and posters, see here.
+This page contains published papers.  For handouts and posters, see [here](handouts_posters.md).
 
 ## Positional Licensing
 
