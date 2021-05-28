@@ -4,7 +4,7 @@ permalink: /handouts_posters/
 author_profile: true
 ---
 
-For published papers, see [here](research).
+For published papers, see [here](research.md).
 
 ## Positional Licensing
 
