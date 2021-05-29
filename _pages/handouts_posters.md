@@ -1,5 +1,5 @@
 ---
-title: "Handouts & Posters"
+title: "Handouts, Posters, & Slides"
 permalink: /handouts_posters/
 author_profile: true
 ---
