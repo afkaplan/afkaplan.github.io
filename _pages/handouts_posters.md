@@ -12,7 +12,7 @@ Kaplan, Aaron (2006) [Licensing and Noniterative Harmony in Lango](../files/Lang
 
 Kaplan, Aaron (2006) [Licensed Harmony in Lango](../files/Lango_TREND_handout.pdf). *Trilateral Phonology Weekend,* Berkeley, CA, November 18.
 
-Kaplan, Aaron (2007) Vowel Harmony in Lango: Noniterativity and Licensing. *Annual Meeting of the Linguistic Society of America,* Anaheim, CA, January 7.
+Kaplan, Aaron (2007) [Vowel Harmony in Lango: Noniterativity and Licensing](..files/Lango_LSA_handout.pdf). *Annual Meeting of the Linguistic Society of America,* Anaheim, CA, January 7.
 
 Kaplan, Aaron (2008) Stress is the Trigger of Chamorro Umlaut. *Mid-America Linguistics Conference,* Lawrence, Kansas, October 27.
 
