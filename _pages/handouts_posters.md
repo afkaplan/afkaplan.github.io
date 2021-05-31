@@ -31,11 +31,11 @@ Kaplan, Aaron & Miranda McCarvel (2013) [Positional Faithfulness in Harmonic Gra
 
 Kaplan, Aaron & Miranda McCarvel (2014) [Positional Faithfulness in Harmonic Grammar](../files/PosFaith_LSA_handout.pdf). *Annual Meeting of the Linguistic Society of America,* Minneapolis, MN, January 3.
 
-Kaplan, Aaron (2015) Long-Distance Licensing in Harmonic Grammar. *37. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (37th Annual Meeting of the German Society for Linguistics),* Leipzig, Germany, March 4.
+Kaplan, Aaron (2015) [Long-Distance Licensing in Harmonic Grammar](../files/LongDist_Leipzig_handout.pdf). *37. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (37th Annual Meeting of the German Society for Linguistics),* Leipzig, Germany, March 4.
 
-Kaplan, Aaron (2015) Long-Distance Licensing in Harmonic Grammar. *Annual Meeting on Phonology,* Vancouver, Canada, October 10.
+Kaplan, Aaron (2015) [Long-Distance Licensing in Harmonic Grammar](../files/LongDist_AMP_poster.pdf). *Annual Meeting on Phonology,* Vancouver, Canada, October 10.
 
-Kaplan, Aaron (2016) The Limits of Positive Constraints. Annual Meeting of the Linguistic Society of America, Washington, DC, January 8.
+Kaplan, Aaron (2016) [The Limits of Positive Constraints](../files/PositiveFaith_LSA_handout.pdf). Annual Meeting of the Linguistic Society of America, Washington, DC, January 8.
 
 Kaplan, Aaron (2017) Opportunistic Centralization in Tudanca Montañés. Poster presented at *The 25th Manchester Phonology Meeting,* Manchester, UK, May 26.
 
