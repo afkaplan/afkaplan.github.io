@@ -14,13 +14,13 @@ Kaplan, Aaron (2006) [Licensed Harmony in Lango](../files/Lango_TREND_handout.pd
 
 Kaplan, Aaron (2007) [Vowel Harmony in Lango: Noniterativity and Licensing](../files/Lango_LSA_handout.pdf). *Annual Meeting of the Linguistic Society of America,* Anaheim, CA, January 7.
 
-Kaplan, Aaron (2008) Stress is the Trigger of Chamorro Umlaut. *Mid-America Linguistics Conference,* Lawrence, Kansas, October 27.
+Kaplan, Aaron (2008) [Stress is the Trigger of Chamorro Umlaut](../files/Chamorro_MALC_handout.pdf). *Mid-America Linguistics Conference,* Lawrence, Kansas, October 27.
 
-Kaplan, Aaron (2008) Pretonic Non-Prominence in Chamorro Umlaut. *Fifth Old World Conference in Phonology,* Toulouse, France, January 24–26.
+Kaplan, Aaron (2008) [Pretonic Non-Prominence in Chamorro Umlaut](../files/Chamorro_OCP_handout.pdf). *Fifth Old World Conference in Phonology,* Toulouse, France, January 24–26.
 
-Kaplan, Aaron (2009) Chamorro Umlaut: An Argument Against Candidate Chains. Poster presented at the *16th Meeting of the Austronesian Formal Linguistics Association,* Santa Cruz, CA, May 1–3.
+Kaplan, Aaron (2009) [Chamorro Umlaut: An Argument Against Candidate Chains](../files/Chamorro_AFLA_poster.pdf). Poster presented at the *16th Meeting of the Austronesian Formal Linguistics Association,* Santa Cruz, CA, May 1–3.
 
-Kaplan, Aaron (2010) Gradualness and Harmonic Improvement without Candidate Chains in Chamorro. *Annual Meeting of the Linguistic Society of America,* Baltimore, MD, January 9.
+Kaplan, Aaron (2010) [Gradualness and Harmonic Improvement without Candidate Chains in Chamorro](../files/Chamorro_LSA_handout.pdf). *Annual Meeting of the Linguistic Society of America,* Baltimore, MD, January 9.
 
 Kaplan, Aaron (2013) Maximal Prominence in Positional Licensing. *The 21st Manchester Phonology Meeting,* Manchester, UK, May 25.
 
