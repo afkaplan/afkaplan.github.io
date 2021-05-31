@@ -22,11 +22,14 @@ Kaplan, Aaron (2009) [Chamorro Umlaut: An Argument Against Candidate Chains](../
 
 Kaplan, Aaron (2010) [Gradualness and Harmonic Improvement without Candidate Chains in Chamorro](../files/Chamorro_LSA_handout.pdf). *Annual Meeting of the Linguistic Society of America,* Baltimore, MD, January 9.
 
-Kaplan, Aaron (2013) Maximal Prominence in Positional Licensing. *The 21st Manchester Phonology Meeting,* Manchester, UK, May 25.
+Kaplan, Aaron (2013) [Maximal Prominence in Positional Licensing](../files/MaximalProminence_mfm_handout.pdf). *The 21st Manchester Phonology Meeting,* Manchester, UK, May 25.
 
-Kaplan, Aaron & Miranda McCarvel (2013) Positional Faithfulness in Harmonic Grammar. Poster presented at *Phonology 2013,* Amherst, MA, November 10.
+Kaplan, Aaron & Miranda McCarvel (2013) [Positional Faithfulness in Harmonic Grammar](../files/PosFaith_NELS_poster.pdf). Poster presented at the *44th Meeting of the North East Linguistic Society,* Storrs, CT, October 19.
 
-Kaplan, Aaron & Miranda McCarvel (2014) Positional Faithfulness in Harmonic Grammar. *Annual Meeting of the Linguistic Society of America,* Minneapolis, MN, January 3.
+
+Kaplan, Aaron & Miranda McCarvel (2013) [Positional Faithfulness in Harmonic Grammar](../files/PosFaith_Phon13_poster.pdf). Poster presented at *Phonology 2013,* Amherst, MA, November 10.
+
+Kaplan, Aaron & Miranda McCarvel (2014) [Positional Faithfulness in Harmonic Grammar](../files/PosFaith_LSA_handout.pdf). *Annual Meeting of the Linguistic Society of America,* Minneapolis, MN, January 3.
 
 Kaplan, Aaron (2015) Long-Distance Licensing in Harmonic Grammar. *37. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (37th Annual Meeting of the German Society for Linguistics),* Leipzig, Germany, March 4.
 
