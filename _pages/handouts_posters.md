@@ -61,9 +61,9 @@ Kaplan, Aaron (2021) [Serial versus Parallel Noisy HG Accounts of Eastern Andalu
 
 ## Optionality
 
-Kaplan, Aaron (2009) Iterative Optionality and Markedness Suppression. Poster presented at the *Annual Meeting of the Linguistic Society of America,* San Francisco, CA, January 10.
+Kaplan, Aaron (2009) [Iterative Optionality and Markedness Suppression[(../files/IterativeOptionality_LSA_poster.pdf). Poster presented at the *Annual Meeting of the Linguistic Society of America,* San Francisco, CA, January 10.
 
-Kaplan, Aaron (2012) Variation in Eastern Andalusian Vowel Harmony. *University of North Carolina Spring Colloquium,* Chapel Hill, NC, April 28.
+Kaplan, Aaron (2012) [Variation in Eastern Andalusian Vowel Harmony](Andalusian_UNC_handout.pdf). *University of North Carolina Spring Colloquium,* Chapel Hill, NC, April 28.
 
 Kaplan, Aaron, Andrew Bayles, & Abby Kaplan (2013) Intra- and Inter-Speaker Variation in French Schwa: Implications for Theories of Optionality. Poster presented at *Phonology 2013,* Amherst, MA, November 10.
 
