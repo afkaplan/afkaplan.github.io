@@ -49,7 +49,7 @@ Kaplan, Aaron (2018) [Noisy HG Models of Eastern Andalusian Harmony](../files/An
 
 Kaplan, Aaron (2019) [Noisy HG Models of Eastern Andalusian Harmony](../files/Andalusian_OCP_handout.pdf). Handout from talk presented at *Sixteenth Old World Conference in Phonology,* University of Verona, Verona, Italy, January 18.
 
-Kaplan, Aaron (2020) [Opacity in Eastern Andalusian Harmony](../files/AndalusianOpacity_AMP2020_handout.pdf). Poster presented at *Annual Meeting on Phonology 2020,* UC Santa Cruz, September 20.
+Kaplan, Aaron (2020) [Opacity in Eastern Andalusian Harmony](../files/AndalusianOpacity_AMP2020_poster.pdf). Poster presented at *Annual Meeting on Phonology 2020,* UC Santa Cruz, September 20.
 
 Kaplan, Aaron (2020) [Harmonic Bounding in (Noisy) Harmonic Grammar](../files/Andalusian_LASC_handout.pdf). Handout from talk presented at *Linguistics at Santa Cruz,* UC Santa Cruz, February 29.
 
