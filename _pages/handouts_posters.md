@@ -61,17 +61,17 @@ Kaplan, Aaron (2021) [Serial versus Parallel Noisy HG Accounts of Eastern Andalu
 
 ## Optionality
 
-Kaplan, Aaron (2009) [Iterative Optionality and Markedness Suppression[(../files/IterativeOptionality_LSA_poster.pdf). Poster presented at the *Annual Meeting of the Linguistic Society of America,* San Francisco, CA, January 10.
+Kaplan, Aaron (2009) [Iterative Optionality and Markedness Suppression](../files/IterativeOptionality_LSA_poster.pdf). Poster presented at the *Annual Meeting of the Linguistic Society of America,* San Francisco, CA, January 10.
 
-Kaplan, Aaron (2012) [Variation in Eastern Andalusian Vowel Harmony](Andalusian_UNC_handout.pdf). *University of North Carolina Spring Colloquium,* Chapel Hill, NC, April 28.
+Kaplan, Aaron (2012) [Variation in Eastern Andalusian Vowel Harmony](../files/Andalusian_UNC_handout.pdf). *University of North Carolina Spring Colloquium,* Chapel Hill, NC, April 28.
 
 Kaplan, Aaron, Andrew Bayles, & Abby Kaplan (2013) Intra- and Inter-Speaker Variation in French Schwa: Implications for Theories of Optionality. Poster presented at *Phonology 2013,* Amherst, MA, November 10.
 
-Kaplan, Aaron (2018) Noisy HG Models of Eastern Andalusian Harmony. Handout from talk presented at *Analyzing Typological Structure: From Categorical to Probabilistic Phonology,* Stanford Univ., September 22.
+Kaplan, Aaron (2018) [Noisy HG Models of Eastern Andalusian Harmony](../files/Andalusian_Stanford_handout.pdf). Handout from talk presented at *Analyzing Typological Structure: From Categorical to Probabilistic Phonology,* Stanford Univ., September 22.
 
-Kaplan, Aaron (2019) Noisy HG Models of Eastern Andalusian Harmony. Handout from talk presented at *Sixteenth Old World Conference in Phonology,* University of Verona, Verona, Italy, January 18.
+Kaplan, Aaron (2019) [Noisy HG Models of Eastern Andalusian Harmony](../files/Andalusian_OCP_handout.pdf). Handout from talk presented at *Sixteenth Old World Conference in Phonology,* University of Verona, Verona, Italy, January 18.
 
-Kaplan, Aaron (2021) Serial versus Parallel Noisy HG Accounts of Eastern Andalusian Harmony. *The 28th Manchester Phonology Meeting,* Manchester, UK, May 28.
+Kaplan, Aaron (2021) [Serial versus Parallel Noisy HG Accounts of Eastern Andalusian Harmony](../files/AndalusianSerial_mfm_slides.pdf). *The 28th Manchester Phonology Meeting,* Manchester, UK, May 28.
 
 
 ## Other
