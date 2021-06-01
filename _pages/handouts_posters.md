@@ -43,7 +43,7 @@ Kaplan, Aaron (2017) [Overshoot in Positional Licensing](../files/Tudanca_WECOL_
 
 Kaplan, Aaron (2018) [Positive Positional Licensing and Overshoot in Tudanca Montañés](../files/Tudanca_LSA_poster.pdf). Poster presented at the *Annual Meeting of the Linguistic Society of America,* Salt Lake City, UT, January 5.
 
-Kaplan, Aaron (2018) Intervening Positions in Long-Distance Positional Licensing Effects. Handout from talk presented at *GLOW 41,* Budapest, April 10.
+Kaplan, Aaron (2018) [Intervening Positions in Long-Distance Positional Licensing Effects](../files/InterveningPositions_GLOW_handout.pdf). Handout from talk presented at *GLOW 41,* Budapest, April 10.
 
 Kaplan, Aaron (2018) Noisy HG Models of Eastern Andalusian Harmony. Handout from talk presented at *Analyzing Typological Structure: From Categorical to Probabilistic Phonology,* Stanford Univ., September 22.
 
