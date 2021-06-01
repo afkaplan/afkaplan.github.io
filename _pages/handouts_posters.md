@@ -45,15 +45,15 @@ Kaplan, Aaron (2018) [Positive Positional Licensing and Overshoot in Tudanca Mon
 
 Kaplan, Aaron (2018) [Intervening Positions in Long-Distance Positional Licensing Effects](../files/InterveningPositions_GLOW_handout.pdf). Handout from talk presented at *GLOW 41,* Budapest, April 10.
 
-Kaplan, Aaron (2018) Noisy HG Models of Eastern Andalusian Harmony. Handout from talk presented at *Analyzing Typological Structure: From Categorical to Probabilistic Phonology,* Stanford Univ., September 22.
+Kaplan, Aaron (2018) [Noisy HG Models of Eastern Andalusian Harmony](../files/Andalusian_Stanford_handout.pdf). Handout from talk presented at *Analyzing Typological Structure: From Categorical to Probabilistic Phonology,* Stanford Univ., September 22.
 
-Kaplan, Aaron (2019) Noisy HG Models of Eastern Andalusian Harmony. Handout from talk presented at *Sixteenth Old World Conference in Phonology,* University of Verona, Verona, Italy, January 18.
+Kaplan, Aaron (2019) [Noisy HG Models of Eastern Andalusian Harmony](../files/Andalusian_OCP_handout.pdf). Handout from talk presented at *Sixteenth Old World Conference in Phonology,* University of Verona, Verona, Italy, January 18.
 
-Kaplan, Aaron (2020) Opacity in Eastern Andalusian Harmony. Poster presented at *Annual Meeting on Phonology 2020,* UC Santa Cruz, September 20.
+Kaplan, Aaron (2020) [Opacity in Eastern Andalusian Harmony](../files/AndalusianOpacity_AMP2020_handout.pdf). Poster presented at *Annual Meeting on Phonology 2020,* UC Santa Cruz, September 20.
 
-Kaplan, Aaron (2020) Harmonic Bounding in (Noisy) Harmonic Grammar. Handout from talk presented at *Linguistics at Santa Cruz,* UC Santa Cruz, February 29.
+Kaplan, Aaron (2020) [Harmonic Bounding in (Noisy) Harmonic Grammar](../files/Andalusian_LASC_handout.pdf). Handout from talk presented at *Linguistics at Santa Cruz,* UC Santa Cruz, February 29.
 
-Kaplan, Aaron (2021) Serial versus Parallel Noisy HG Accounts of Eastern Andalusian Harmony. *The 28th Manchester Phonology Meeting,* Manchester, UK, May 28.
+Kaplan, Aaron (2021) [Serial versus Parallel Noisy HG Accounts of Eastern Andalusian Harmony](../files/AndalusianSerial_mfm_slides.pdf). *The 28th Manchester Phonology Meeting,* Manchester, UK, May 28.
 
 
 
