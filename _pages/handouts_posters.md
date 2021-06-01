@@ -76,7 +76,7 @@ Kaplan, Aaron (2021) [Serial versus Parallel Noisy HG Accounts of Eastern Andalu
 
 ## Other
 
-Kaplan, Aaron (2005) Vowel Length and Coda Cluster Interactions in Misantla Totonac. *Penn Linguistics Colloquium 29,* Philadelphia, PA, February 27.
+Kaplan, Aaron (2005) [Vowel Length and Coda Cluster Interactions in Misantla Totonac](../files/Totonac_Penn_handout). *Penn Linguistics Colloquium 29,* Philadelphia, PA, February 27.
 
 Kaplan, Aaron (2005) Long-Distance Wh-Movement in Chamorro. *12th Meeting of the Austronesian Formal Linguistics Association,* Los Angeles, CA, May 1.
 
