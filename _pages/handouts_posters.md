@@ -37,11 +37,11 @@ Kaplan, Aaron (2015) [Long-Distance Licensing in Harmonic Grammar](../files/Long
 
 Kaplan, Aaron (2016) [The Limits of Positive Constraints](../files/PositiveFaith_LSA_handout.pdf). Annual Meeting of the Linguistic Society of America, Washington, DC, January 8.
 
-Kaplan, Aaron (2017) Opportunistic Centralization in Tudanca Montañés. Poster presented at *The 25th Manchester Phonology Meeting,* Manchester, UK, May 26.
+Kaplan, Aaron (2017) [Opportunistic Centralization in Tudanca Montañés](../files/Tudanca_mfm_poster.pdf). Poster presented at *The 25th Manchester Phonology Meeting,* Manchester, UK, May 26.
 
-Kaplan, Aaron (2017) Overshoot in Positional Licensing. *Western Conference on Linguistics,* Boise, ID, October 20.
+Kaplan, Aaron (2017) [Overshoot in Positional Licensing](../files/Tudanca_WECOL_handout.pdf). *Western Conference on Linguistics,* Boise, ID, October 20.
 
-Kaplan, Aaron (2018) Positive Positional Licensing and Overshoot in Tudanca Montañés. Poster presented at the *Annual Meeting of the Linguistic Society of America,* Salt Lake City, UT, January 5.
+Kaplan, Aaron (2018) [Positive Positional Licensing and Overshoot in Tudanca Montañés](../files/Tudanca_LSA_poster.pdf). Poster presented at the *Annual Meeting of the Linguistic Society of America,* Salt Lake City, UT, January 5.
 
 Kaplan, Aaron (2018) Intervening Positions in Long-Distance Positional Licensing Effects. Handout from talk presented at *GLOW 41,* Budapest, April 10.
 
