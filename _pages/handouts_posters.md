@@ -78,13 +78,13 @@ Kaplan, Aaron (2021) [Serial versus Parallel Noisy HG Accounts of Eastern Andalu
 
 Kaplan, Aaron (2005) [Vowel Length and Coda Cluster Interactions in Misantla Totonac](../files/Totonac_Penn_handout.pdf). *Penn Linguistics Colloquium 29,* Philadelphia, PA, February 27.
 
-Kaplan, Aaron (2005) Long-Distance Wh-Movement in Chamorro. *12th Meeting of the Austronesian Formal Linguistics Association,* Los Angeles, CA, May 1.
+<!-- Kaplan, Aaron (2005) Long-Distance Wh-Movement in Chamorro. *12th Meeting of the Austronesian Formal Linguistics Association,* Los Angeles, CA, May 1. -->
 
-Kaplan, Aaron (2005) Segmental Behavior of Suprasegmental Tone. *Mid-Continental Workshop on Phonology 11,* Ann Arbor, MI, November 4.
+<!-- Kaplan, Aaron (2005) Segmental Behavior of Suprasegmental Tone. *Mid-Continental Workshop on Phonology 11,* Ann Arbor, MI, November 4. -->
 
 Kaplan, Aaron (2006) [Segmental Behavior of Suprasegmental Tone](../files/Tone_LSA_handout.pdf). *Annual Meeting of the Linguistic Society of America,* Albuquerque, NM, January 6.
 
-Kaplan, Aaron (2006) Prosodic Tone with Segmental Pitch. *32nd Annual Meeting of the Berkeley Linguistics Society,* Berkeley, CA, February 10.
+<!-- Kaplan, Aaron (2006) Prosodic Tone with Segmental Pitch. *32nd Annual Meeting of the Berkeley Linguistics Society,* Berkeley, CA, February 10. -->
 
 Kaplan, Aaron & John Woodmansee (2018) Imperfect Rhymes as a Measure of Phonological Similarity. *UNC Spring Colloquium,* Chapel Hill, NC, April 7. [handout](../files/Rhymes_UNC_handout.pdf) [slides](../files/Rhymes_UNC_slides.pdf)
 
