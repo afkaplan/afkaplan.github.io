@@ -6,7 +6,7 @@ author_profile: true
 
 My research has two main focuses, prominence-driven processes (in particular positional licensing) and optionality.  The items on this page are organized into these two groups, with things that don't belong in either category at the end.  When something addresses both topics, it appears twice.
 
-This page contains published papers and their supplementary materials.  For handouts, posters, and slides, see [here](handouts_posters.md).
+This page contains published papers and their supplemental materials.  For handouts, posters, and slides, see [here](handouts_posters.md).
 
 ## Positional Licensing
 
@@ -44,7 +44,7 @@ Kaplan, Aaron (2011) [Variation through Markedness Suppression](https://doi.org/
 Bayles, Andrew, Aaron Kaplan, & Abby Kaplan (2016) [Inter- and Intra-Speaker Variation in French Schwa](http://doi.org/10.5334/gjgl.54). *Glossa* 1.1:19.
 
 Kaplan, Aaron (2016) [Local Optionality with Partial Orders](https://doi.org/10.1017/s0952675716000130). *Phonology* 33.2:285--324.
-Supplemental materials: marketability_repetitive.txt marketability_workbook.xls deteledemande_otsoft.txt apricotpie.txt glassdishcloth.txt tamarack.txt wagonknife.txt
+[Supplemental materials](https://github.com/afkaplan/Local-Optionality-with-Partial-Orders.git): marketability_repetitive.txt marketability_workbook.xls deteledemande_otsoft.txt apricotpie.txt glassdishcloth.txt tamarack.txt wagonknife.txt
 
 Kaplan, Aaron (2021) [Persistence and Opacity in Eastern Andalusian Harmony](https://doi.org/10.3765/amp.v9i0.4899). In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America.
 
