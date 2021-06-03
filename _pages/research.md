@@ -44,6 +44,7 @@ Kaplan, Aaron (2011) [Variation through Markedness Suppression](https://doi.org/
 Bayles, Andrew, Aaron Kaplan, & Abby Kaplan (2016) [Inter- and Intra-Speaker Variation in French Schwa](http://doi.org/10.5334/gjgl.54). *Glossa* 1.1:19.
 
 Kaplan, Aaron (2016) [Local Optionality with Partial Orders](https://doi.org/10.1017/s0952675716000130). *Phonology* 33.2:285--324.
+Supplemental materials: marketability_repetitive.txt marketability_workbook.xls deteledemande_otsoft.txt apricotpie.txt glassdishcloth.txt tamarack.txt wagonknife.txt
 
 Kaplan, Aaron (2021) [Persistence and Opacity in Eastern Andalusian Harmony](https://doi.org/10.3765/amp.v9i0.4899). In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America.
 
