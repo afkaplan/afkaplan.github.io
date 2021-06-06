@@ -2,7 +2,7 @@
 title: "Licensed Harmony in Lango"
 collection: talks
 type: "Talk"
-permalink: ../files/Lango_TREND_handout.pdf
+permalink: /talks/2006TREND_Lango.md
 venue: "TREND"
 date: 2006-11-18
 location: "Berkeley CA, USA"
