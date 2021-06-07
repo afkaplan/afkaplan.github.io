@@ -5,9 +5,9 @@ var addressPoints = [
     -122.2728638
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Manchester, UK",
+    53.479444, 
+    -2.245278
   ],
   [
     "San Francisco, California",
