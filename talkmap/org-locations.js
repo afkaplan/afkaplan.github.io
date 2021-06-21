@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Champaign, IL<br>NELS",
+    "Champaign, IL\n NELS",
     40.115,
     -88.272778
   ],
