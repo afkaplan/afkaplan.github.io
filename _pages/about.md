@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aaron Kaplan"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
