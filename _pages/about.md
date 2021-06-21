@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a phonologist in the [Linguistics Department](http://linguistics.utah.edu) at the [University of Utah](http://utah.edu).  I specialize in theoretical phonology, particularly optionality and prominence-driven phenomena.  I work primarily in Optimality Theory and related frameworks. [click here](/talkmap.html)
+I am a phonologist in the [Linguistics Department](http://linguistics.utah.edu) at the [University of Utah](http://utah.edu).  I specialize in theoretical phonology, particularly optionality and prominence-driven phenomena.  I work primarily in Optimality Theory and related frameworks.
 
