@@ -6,5 +6,5 @@ main:
   - title: "CV"
     url: /files/cv.pdf
   
-  - title: "Map"
-    url: /talkmap/
+  - title: "Map of places I've been"
+    url: /talkmap.html
