@@ -108,12 +108,12 @@ var addressPoints = [
     "Los Angeles, CA",
     34.0543942,
     -118.2439408
-  ]
+  ],
   [
     "Philadelphia, PA",
     39.952778, 
     -75.163611
-  ]
+  ],
   [
     "Albuquerque, NM",
     35.110833, 
