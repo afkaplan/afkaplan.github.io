@@ -31,6 +31,8 @@ Kaplan, Aaron (2019) [Overshoot in Licensing-Driven Harmony](https://doi.org/10.
 
 Kaplan, Aaron (2021) [Persistence and Opacity in Eastern Andalusian Harmony](https://doi.org/10.3765/amp.v9i0.4899). In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America.
 
+Kaplan, Aaron (2021) [Categorical and Gradient Ungrammaticality in Optional Processes](https://doi.org/10.1353/lan.2021.0062). *Language* 97.4:703-731. [Supplemental Materials](https://doi.org/10.1353/lan.2021.0082)
+
 
 
 
