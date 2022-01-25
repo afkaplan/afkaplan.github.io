@@ -88,3 +88,8 @@ Kaplan, Aaron (2006) [Segmental Behavior of Suprasegmental Tone](../files/Tone_L
 
 Kaplan, Aaron & John Woodmansee (2018) Imperfect Rhymes as a Measure of Phonological Similarity. *UNC Spring Colloquium,* Chapel Hill, NC, April 7. [handout](../files/Rhymes_UNC_handout.pdf) [slides](../files/Rhymes_UNC_slides.pdf)
 
+Edward Rubin & Aaron Kaplan (2021) [Segmental and Prosodic Influences on Bolognese Epenthesis](..files/StonyBrook_slides_latex.pdf). *Epenthesis and Beyond,* Stony Brook University, September 17.
+
+Edward Rubin & Aaron Kaplan (2021) [Lexical Selection in Bolognese Clitic Allomorphy](..files/GoingRomancePoster_desert.pdf). Poster presented at *Going Romance 2021,* Amsterdam, December 3.
+
+2022 Aaron Kaplan. [The Timing of Violations in Serial Derivations](..files/Persian_LSAposter2022.pdf). Poster presented at the *Annual Meeting of the Linguistic Society of America,* Washington, DC, January 6.
