@@ -59,6 +59,8 @@ Kaplan, Aaron (2021) [Gradual Optionality in Noisy HG](../files/UCLA_presentatio
 
 Kaplan, Aaron (2021) [Serial versus Parallel Noisy HG Accounts of Eastern Andalusian Harmony](../files/AndalusianSerial_mfm_slides.pdf). *The 28th Manchester Phonology Meeting,* Manchester, UK, May 28.
 
+Kaplan, Aaron (2023) [Prominence Conflicts in Bolognese](../files/metaphonyWorkshop_slides.pdf). *‘Metaphony’: Theoretical, Descriptive and Typological Issues* (Workshop at *Phonetics and Phonology in Europe 2023*), Radboud University, Nijmegen, the Netherlands, June 1.
+
 
 
 
