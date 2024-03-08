@@ -53,6 +53,10 @@ Kaplan, Aaron (2020) [Opacity in Eastern Andalusian Harmony](../files/Andalusian
 
 Kaplan, Aaron (2020) [Harmonic Bounding in (Noisy) Harmonic Grammar](../files/Andalusian_LASC_handout.pdf). Handout from talk presented at *Linguistics at Santa Cruz,* UC Santa Cruz, February 29.
 
+Kaplan, Aaron (2020) [Exploring Serial NHG with Eastern Andalusian Harmony](../files/USC_presentation.pdf). Slides from talk presented at the University of Southern California, November 12.
+
+Kaplan, Aaron (2021) [Gradual Optionality in Noisy HG](../files/UCLA_presentation.pdf). Slides from talk presented at UCLA, January 6.
+
 Kaplan, Aaron (2021) [Serial versus Parallel Noisy HG Accounts of Eastern Andalusian Harmony](../files/AndalusianSerial_mfm_slides.pdf). *The 28th Manchester Phonology Meeting,* Manchester, UK, May 28.
 
 
