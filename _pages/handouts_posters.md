@@ -102,4 +102,8 @@ Edward Rubin & Aaron Kaplan (2021) [Segmental and Prosodic Influences on Bologne
 
 Edward Rubin & Aaron Kaplan (2021) [Lexical Selection in Bolognese Clitic Allomorphy](../files/GoingRomancePoster_desert.pdf). Poster presented at *Going Romance 2021,* Amsterdam, December 3.
 
-2022 Aaron Kaplan. [The Timing of Violations in Serial Derivations](../files/Persian_LSAposter2022.pdf). Poster presented at the *Annual Meeting of the Linguistic Society of America,* Washington, DC, January 6.
+Kaplan, Aaron 2022 [The Timing of Violations in Serial Derivations](../files/Persian_LSAposter2022.pdf). Poster presented at the *Annual Meeting of the Linguistic Society of America,* Washington, DC, January 6.
+
+Edward Rubin & Aaron Kaplan (2023) [GSR and Suppletion in Bolognese Clitics](../files/bolognese_GSR_handout_WCCFL.pdf). *WCCFL 41,* UC Santa Cruz, May 6, 2023.
+
+Edward Rubin & Aaron Kaplan (2023) [GSR and Suppletion in Bolognese Clitics](../files/bolognese_GSR_slides_LSRL54.pdf). *LSRL 54,* Brigham Young University, May 9, 2024.
