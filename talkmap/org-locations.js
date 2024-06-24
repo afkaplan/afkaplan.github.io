@@ -118,5 +118,10 @@ var addressPoints = [
     "Albuquerque, NM\n (LSA)",
     35.110833,
     -106.61
+  ],
+  [
+    "Nijmegen, the Netherlands\n (PAPE)",
+    51.8475,
+    5.8625
   ]
 ];
