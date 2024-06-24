@@ -128,5 +128,10 @@ var addressPoints = [
     "Denver\n (LSA)",
     39.7392, 
     -104.9849
+  ],
+  [
+    "Provo\n (LSRL)",
+    40.244444, 
+    -111.660833
   ]
 ];
